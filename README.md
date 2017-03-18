@@ -4,7 +4,7 @@ This project demonstrates the performance of a capped investment strategy
 vs the S&P
 
 #### Demo
-[foo](foo)
+[http://rrag.github.io/capped-investment-strategy-analysis/](http://rrag.github.io/capped-investment-strategy-analysis/)
 
 ## Pre req
 
